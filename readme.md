@@ -47,7 +47,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 <p align="center">
-  <img alt="Badge do Alura Challenge Projeto 1" src="imagens\badge.png" width="100%">
+  <img alt="Badge do Alura Challenge Projeto 1" src="imagens\badge.png" width="50%">
 </p>
 
 Projeto desenvolvido no ONE by [Oracle](https://www.oracle.com/br/education/oracle-next-education/).
